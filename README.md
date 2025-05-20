@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M007code
+- 👋 Hi, I’m @coolhandmoe
 - 👀 I’m interested in Artificial Intelligence and Robots
 - 🌱 I’m currently learning Python
-- 📫 You can reach on Twitter: MohamedNdiaye0 or by Email: Mohamedn01@outlook.com
+- 📫 You can reach me by Email: Mohamedn01@outlook.com
